@@ -17,3 +17,5 @@ issues on GitHub, submitting feature requests,
 or even opening your own Pull Requests!
 """
 )
+
+println(dummy_project_function(5, 5))
