@@ -7,6 +7,10 @@ to make a reproducible scientific project named
 
 It is authored by BAF.
 
+Find some examples of experimenting with Julia and ABM at src/
+
+<video src='plots/outbreak.mp4' width=380/>
+
 To (locally) reproduce this project, do the following:
 
 0. Download this code base. Notice that raw data are typically not included in the
